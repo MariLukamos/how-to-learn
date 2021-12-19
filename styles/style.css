@@ -194,16 +194,15 @@ padding-bottom: 100px;
   overflow: hidden;
   position: relative;
   padding: 90px 0;
+  align-items: center;
 }
-.section-table_theme_dark {
-  margin: 0 auto;
-}
+
 .section-title_theme_dark {
-  margin: 0 auto 20px;
+  margin: 0 0 20px;
   z-index: 2;
 }
 .section-subtitle_theme_dark {
-  margin: 0 auto;
+  margin: 0;
   z-index: 2;
 }
 
