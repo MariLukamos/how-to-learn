@@ -38,5 +38,5 @@ git clone https://github.com/MariLukamos/how-to-learn.git
 * [Бриф №2](https://drive.google.com/file/d/1L2bPH90ytovXdCCHCjMDXTp6iuPrTq3X/view?usp=sharing) (Animation and Transform using CSS, Nested БЭМ, iframe)
 
 ## Чеклисты:
-* [Чеклист №1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html)
-* [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
+* [Чеклист №1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1.pdf)
+* [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2.pdf)
