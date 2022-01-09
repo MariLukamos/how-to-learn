@@ -1,4 +1,13 @@
 .link {
   text-decoration: none;
   color: #2f80ed;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -ms-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+.link:hover {
+  opacity: 0.5;
 }
